@@ -1,0 +1,39 @@
+
+
+body { 
+    background-color:hsl(212, 45%, 89%);
+}
+
+#card {    width:350px;
+           height:538px;
+           background-color:hsl(0, 0%, 100%);
+           border-radius:32px;
+           position:absolute;
+           top:50%;
+           left:50%;
+           transform:translate(-50% , -50%);
+           font-family:'Outfit';
+           
+}
+
+#qr-code{   width: 300px;
+            border-radius:15px;
+            margin-left:25px;
+            margin-top:25px;
+                     
+}
+h1 {  
+    font-family:Outfit;  
+    font-size:29px;
+    text-align: center;
+    color:hsl(218, 44%, 22%);
+    
+}
+#under-h1 { font-size:16px;
+            text-align: center;
+            padding:0px 60px 0px;
+            font-weight:500;
+}
+/*chalenge by frontendmentor link = https://www.frontendmentor.io/
+        coded by hossein haji alizadeh . git hub link = https://github.com/hosseinlight84 */
+
